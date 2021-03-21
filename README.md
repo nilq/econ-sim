@@ -1,4 +1,4 @@
-# Simpconomy
+# Market simulator
 A simple market simulation with three transaction types and a Gini function.
 
 ## Result
