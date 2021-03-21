@@ -1,5 +1,5 @@
-# spirits-sim
-A simulation of an artificial Keynesian economy.
+# Simpconomy
+A simple market simulation with three transaction types and a Gini function.
 
 ## Result
 
